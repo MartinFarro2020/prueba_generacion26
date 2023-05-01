@@ -7,3 +7,5 @@
 **git add nameFale / .** Para ingresar los archivos a cambios uno por uno o todos
 **git commit -m 'first commit'** Para ingresar el commit en nuestro repositorio local
 **git log** para ver todos los comit que tengo en mi repositorio
+**git push -u origin main**
+**git clone url** para clonar el repositorio
